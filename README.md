@@ -1,2 +1,2 @@
-# ilk_kodlar-m
+# ilk_kodlarım
 Bilgisayar programcılığı ilk kodlarım
